@@ -21,7 +21,7 @@ paginate = 8
     weight = 3
 
 [params]
-  avatar='profile.jpg'
+  avatar='avatar.jpg'
   author = "Luan Santos"
   description = "Software Engineer"
   menu_item_separator = " - "

@@ -4,13 +4,13 @@ tags = ["personal", "about", "interests"]
 date = "2023-05-13"
 +++
 
+[⬅️ previous page](/)
+
 Pleased to meet you, i'm Luan!
 
 # Introduction
 
 I'm 22 years old, the fourth and youngest child. Born and currently in São Paulo, Brazil.
-
-
 
 
 # What makes me happy
@@ -39,13 +39,13 @@ Spend hours on hackerrank challenges or reading. The more I learn, the more I wa
 
 
 # 🎸 concerts and festivals
-Live concerts give me an awesome sensation. I get really tired, but somehow I can't feel it at all. Great music makes me feel good.
+I really appreciate live concerts. I would say that Rock and indie are the categories that I listen the most, so I don't waste a chance to see my favorite artists.
 
 {{< figure src="/lolla.png" alt="Descrição da imagem" width="250" height="250" align="center" >}}
 
 
 # 🎥 movies
-I really enjoy movies that give me emotions, or gets me thinking
+I really enjoy movies that give me emotions or make me feel reflective somehow.
 {{< figure src="/movie.jpg" alt="Descrição da imagem" width="250" height="250" align="center" >}}
 
 

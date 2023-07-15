@@ -11,7 +11,7 @@ date = "2023-05-16"
 
 ### iti Itaú
 
-The digital account of South America's greatest bank: Itaú. I would say that anything here is outstanding: Culture, technologies, opportunities. I feel really happy here.  
+The digital account of South America's greatest bank: Itaú. I would say that everything here is outstanding: Culture, technologies, opportunities. I feel really happy here.  
 
 - *Junior Software Engineer (nov/2021 - now)*
 	- Ellaborate and architect, with other engineers, reliable, scalable and elegant solutions for business needs;

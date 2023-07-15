@@ -17,7 +17,7 @@ I'm 22 years old, the fourth and youngest child. Born and currently in São Paul
 
 # ☕ coffee
 Nothing new under the sun.
-As a developer, coffee is like fuel. And I take it to another level, always trying new methods and flavors. If you know an exceptional coffee shop, just let me know.
+As a developer, coffee is like fuel. And I take it to the next level, always trying new methods and flavors. If you know an exceptional coffee shop, just let me know.
 
 {{< figure src="/coffee.jpg" alt="Descrição da imagem" width="250" height="250" align="center" >}}
 
